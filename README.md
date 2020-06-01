@@ -1,4 +1,4 @@
-# DevOps Questions & Exercises
+# DevOps Interview Questions & Exercises
 
 :information_source: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE :)
 
