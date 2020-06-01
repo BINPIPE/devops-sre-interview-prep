@@ -4,8 +4,6 @@
 
 :bar_chart: &nbsp;There are currently **1203** questions
 
-:busts_in_silhouette: &nbsp;[Join](https://www.facebook.com/groups/538897960007080) our [Facebook group](https://www.facebook.com/groups/538897960007080) or follow us on [Twitter](https://twitter.com/devopsbit) for additional daily exercises, articles and more resources on DevOps
-
 :warning: &nbsp;You can use these for preparing for an interview but most of the questions and exercises don't represent an actual interview. Please read [Q&A](common-qa.md) for more details
 
 :thought_balloon: &nbsp;If you wonder "How to prepare for a DevOps interview?", you might want to read some of my suggestions [here](prepare_for_interview.md)
